@@ -39,6 +39,6 @@ All attack activity is simulated with Atomic Red Team inside the lab VMs. No rea
 
 ## About Me
 
-[Electronics Engineering graduate with CompTIA Security+ and ISC2 CC certifications, building hands-on SOC skills in a Wazuh and Sysmon home lab. Seeking a SOC analyst or junior cybersecurity role, and open to IT support roles.]
+Electronics Engineering graduate with CompTIA Security+ and ISC2 CC certifications, building hands-on SOC skills in a Wazuh and Sysmon home lab. Seeking a SOC analyst or junior cybersecurity role, and open to IT support roles.
 
-CompTIA Security+ | ISC2 CC | [www.linkedin.com/in/edelnil-ferrer-34502b304]
+CompTIA Security+ | ISC2 CC | https://www.linkedin.com/in/edelnil-ferrer-34502b304
